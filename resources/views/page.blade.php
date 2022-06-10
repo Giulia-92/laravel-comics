@@ -1,8 +1,9 @@
+@include('partials.header')
 
 @extends('layouts.base')
 
 
 @section('title')
-DC-COMICS-HOME
+DC-COMICS-PAGE 
     
 @endsection

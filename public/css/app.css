@@ -1,6 +1,7 @@
 h3 {
   margin: 40px 0 0;
 }
+
 .logo {
   height: 70px;
   width: 70px;
@@ -8,14 +9,17 @@ h3 {
   margin-left: 200px;
   margin-top: -25px;
 }
+
 nav {
   height: 50px;
   width: 120%;
 }
+
 ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   display: inline-flex;
   justify-content: flex-end;
@@ -24,38 +28,46 @@ li {
   font-family: "Varela Round", sans-serif;
   color: #5b5d5e;
 }
+
 a {
   color: #5b5d5e;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline#03a1fc 3px;
+  -webkit-text-decoration: underline #03a1fc 3px;
+          text-decoration: underline #03a1fc 3px;
   color: #03a1fc;
 }
+
 ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   display: inline-block;
   margin: 0 10px;
 }
+
 a {
   color: #42b983;
 }
+
 .black {
   background-color: black;
   color: white;
   font-family: "Roboto Condensed", sans-serif;
   font-size: 50px;
 }
+
 .blue {
   background-color: #008eed;
   display: inline-flex;
   width: 100%;
   margin-top: -60px;
 }
+
 .card {
   width: 50px;
   height: 50px;
