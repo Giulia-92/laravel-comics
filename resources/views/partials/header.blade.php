@@ -2,7 +2,7 @@
     <nav>
         <img class="logo" src="../img/dc-logo.png" alt="">
     
-        <ul>
+        <ul  class="menu">
             <li> <a href="#">Caracters</a></li>
             <li><a href="#">Comics</a></li>
             <li><a href="#">Movies</a></li>

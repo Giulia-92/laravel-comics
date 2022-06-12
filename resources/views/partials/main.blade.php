@@ -1,11 +1,11 @@
 <main>
     <section class="black">
-      <div>
-        <img src="../img/jumbotron.jpg">
+      <div >
+        <img class="jumbo" src="../img/jumbotron.jpg">
       </div>
       <div>
         <ul>
-          <li></li>
+          <li>CARD</li>
         </ul>
       </div>
     </section>

@@ -1,7 +1,7 @@
 <section class="comicbook">
      
     <div class="logobg">
-<ul class="info">
+    <ul class="info">
         <li>DC COMICS</li>
         <li>Characters</li>
         <li>Comics</li>
@@ -12,7 +12,7 @@
         <li>News</li>
 
     </ul>
-  <img src="{{ asset('img/logo-bg.png') }}" alt="">
+  <img src="../img/logo-bg.png" alt="">
   </div>
     <section class="footer" >
         <button class="btn">SIGN-UP NOW!</button>
